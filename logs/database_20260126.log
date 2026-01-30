@@ -1,0 +1,5 @@
+2026-01-26 16:16:43,783 - INFO - SUCESSO: Conectado ao banco: clientes
+2026-01-26 16:16:43,787 - ERROR - Nenhuma estrutura encontrada na pasta lojas para clientes
+2026-01-26 16:16:43,802 - INFO - SUCESSO: Conectado ao banco: pedidos
+2026-01-26 16:16:43,802 - ERROR - Nenhuma estrutura encontrada na pasta lojas para pedidos
+2026-01-26 16:16:44,296 - ERROR - Erro ao executar query em pedidos - Detalhes: no such table: pedidos
